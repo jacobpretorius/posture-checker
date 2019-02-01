@@ -13,8 +13,6 @@
 # Build results
 [Dd]ebug/
 [Dd]ebugPublic/
-[Rr]elease/
-[Rr]eleases/
 x64/
 x86/
 bld/
@@ -260,5 +258,3 @@ paket-files/
 __pycache__/
 *.pyc
 *.webinfo
-/BlogFull.Web/posts/settings.config
-/BlogFull.Web/post-images
